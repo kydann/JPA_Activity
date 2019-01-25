@@ -1,0 +1,6 @@
+com/ejem/jpa/services/serv.class
+com/ejem/jpa/repositories/repo.class
+com/ejem/jpa/services/servImpl.class
+com/ejem/jpa/beans/usuario.class
+com/ejem/jpa/controller/apiController.class
+com/ejem/jpa/JpaApplication.class
